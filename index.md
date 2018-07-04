@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# Code of Conduct
 
-You can use the [editor on GitHub](https://github.com/mtlynch/indie-hackers-code-of-conduct/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Indie Hackers (IH) meetups are community events intended for networking and collaboration IH community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We value the participation of each member of the IH community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by the IH Software Foundation or not.
 
-### Markdown
+To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any Indie Hackers event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Our Standards
 
-```markdown
-Syntax highlighted code block
+Indie Hackers is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-# Header 1
-## Header 2
-### Header 3
+Examples of behavior that contributes to creating a positive environment include:
 
-- Bulleted
-- List
+- Being kind to others
+- Behaving professionally
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
-1. Numbered
-2. List
+Examples of unacceptable behavior by participants include:
 
-**Bold** and _Italic_ and `Code` text
+- Harassment of conference participants in any form
+- Deliberate intimidation, stalking, or following
+- Violent threats or language directed against another person
+- Sexual language and imagery in any conference venue, including talks
+- Insults or put downs
+- Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+- Excessive swearing
+- Unwelcome sexual attention or advances
+- Unwelcome physical contact
+- Sustained disruption of talks or other events
+- Other conduct that is inappropriate for a professional audience including people of many different backgrounds
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
-### Jekyll Themes
+If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtlynch/indie-hackers-code-of-conduct/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thank you for helping make this a welcoming, friendly event for all.
 
-### Support or Contact
+## Scope
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All Indie Hackers US attendees are subject to the Code of Conduct. This includes Indie Hackers US staff and volunteers, as well as attendees of the tutorials, workshops, summits, poster sessions, receptions, conference, sprints, and sponsored or unofficial events.
+
+Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+
+## Contact Information
+
+If you believe that someone is violating the code of conduct during a Indie Hackers event, or have any other concerns, please contact the meetup organizer immediately.
+
+- **Indie Hackers Incident Report Hotline**
+    - Automated dialer of the individuals listed below
+    - +1 (216) 208 7987 (Telephone or SMS)
+    - <pycon-us-report@python.org>
+
+In case of a conflict of interest, you can individually contact:
+
+  * Courtland Allen
+      * Co-Founder, Indie Hackers
+      * courtland@indiehackers.com
+  * Channing Allen
+      * Co-Founder, Indie Hackers
+      * channing@indiehackers.com
+
+IH ambassadors will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the meetup. We value your attendance.
+
+## Procedure for Handling Incidents
+
+* [Attendee process for reporting incidents](incident-handling-organizer-procedure.md)
+* [Staff Procedure for handling incidents](incident-handling-staff-procedure.md)
+
+## License
+
+This Code of Conduct was forked from the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct), which was drived from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
+
+Additional language was added by [Otter Tech](https://otter.technology/) from:
+
+- [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) (licensed [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md))
+- [Django Project Code of Conduct](https://www.djangoproject.com/conduct/) (licensed [CC BY 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
+- [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
+- Citizen Code of Conduct (licensed [CC BY SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
+- [Affect Conf Code of Conduct](https://affectconf.com/coc/) (licensed [CC BY 3.0](http://creativecommons.org/licenses/by-sa/3.0/)).
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+
+The Indie Hackers Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
