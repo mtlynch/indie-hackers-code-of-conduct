@@ -112,3 +112,4 @@ If a reported person wants to appeal the decision, notify them that they may con
 It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken - while still respecting the privacy of individual attendees.
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, encourage them to email Indie Hackers leaders (Courtland Allen and Channing Allen) to share their thoughts.
+
